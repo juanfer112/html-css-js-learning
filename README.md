@@ -8,7 +8,7 @@ Este repositorio contiene una colección de ejercicios prácticos organizados en
 
 El proyecto está estructurado de la siguiente manera:
 
-```
+```plaintext
 /
 ├── HTML/
 │ ├── ej01/
