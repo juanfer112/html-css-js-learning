@@ -8,6 +8,7 @@ Este repositorio contiene una colección de ejercicios prácticos organizados en
 
 El proyecto está estructurado de la siguiente manera:
 
+```
 /
 ├── HTML/
 │ ├── ej01/
@@ -26,6 +27,7 @@ El proyecto está estructurado de la siguiente manera:
 │ │ ├── app.js
 │ ├── ...
 └── index.html (Página principal con enlaces a cada ejercicio)
+```
 
 Cada carpeta incluye un archivo `index.html` que implementa los conceptos del ejercicio. La raíz del proyecto contiene un archivo `index.html` que enlaza a todos los ejercicios para facilitar la navegación.
 
