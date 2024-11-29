@@ -1,6 +1,6 @@
 # HTML, CSS, and JavaScript Exercises Repository
 
-Este repositorio contiene una colección de ejercicios prácticos organizados en tres categorías principales: **HTML**, **CSS** y **JavaScript**. Los ejercicios tienen conceptos fundamentales y avanzados, consolidando tus habilidades en desarrollo frontend.
+Este repositorio contiene una colección de ejercicios prácticos organizados en tres categorías principales: **HTML**, **CSS** y **JavaScript**. Los ejercicios tienen conceptos fundamentales y avanzados, consolidando habilidades en desarrollo frontend.
 
 ---
 
@@ -39,7 +39,7 @@ Cada carpeta incluye un archivo `index.html` que implementa los conceptos del ej
 
 - [x] **Ejercicio 1**: Crear un documento HTML con "Hola Mundo".
 - [x] **Ejercicio 2**: Mostrar "Hola mundo mi nombre es..." usando diferentes etiquetas.
-- [ ] **Ejercicio 3**: Crear un formulario de registro básico.
+- [x] **Ejercicio 3**: Crear un formulario de registro básico.
 - [ ] **Ejercicio 4**: Crear una tabla para mostrar datos.
 - [ ] **Ejercicio 5**: Vista detallada de un usuario con texto plano.
 
