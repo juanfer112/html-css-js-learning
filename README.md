@@ -41,7 +41,7 @@ Cada carpeta incluye un archivo `index.html` que implementa los conceptos del ej
 - [x] **Ejercicio 2**: Mostrar "Hola mundo mi nombre es..." usando diferentes etiquetas.
 - [x] **Ejercicio 3**: Crear un formulario de registro básico.
 - [x] **Ejercicio 4**: Crear una tabla para mostrar datos.
-- [ ] **Ejercicio 5**: Vista detallada de un usuario con texto plano.
+- [x] **Ejercicio 5**: Vista detallada de un usuario con texto plano.
 
 ### CSS
 
